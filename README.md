@@ -1,4 +1,3 @@
 # git-training
 
-- Feature in a
-- Feature in b
+Some changes on main. Some more changes on main.
